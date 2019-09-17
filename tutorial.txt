@@ -1,0 +1,39 @@
+Password Login Modem ZTE F609 Indihome 2019
+
+Author :  Boychongzen aka Xroot
+
+Tested : Windows Seven
+
+Buka Browser ketik 192.168.1.1 / 192.168.1.2 sesuaikan aja
+
+Username  : user
+Password  : user
+
+Username  : admin
+Password  : admin
+
+Apabila password diatas tidak bisa, karena password admin indihome setiap wilayah bisa berbeda-beda, silahkan anda coba satu-satu daftar password berikut ini;
+
+Username  : admin
+Password  : Telkomdso123
+
+Username : admin
+Password : Pq@54r!e8ow&q#u
+
+Username : support
+Password : support
+
+Username :support
+Password : theworldinyourhand
+
+Username : admin
+Password : Mn@lh4!nk9#m
+
+Username : admin
+Password : Dj9@t!n03g4r6#f
+
+Username : admin
+Password : telkomjatineg4r4
+
+
+NB : gunakan dengan bijak okeh
