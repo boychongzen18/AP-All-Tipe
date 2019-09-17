@@ -2,7 +2,7 @@
 
 # Author : Boychongzen aka Xroot
 
-# Tested  Windows Seven & Kali Linux Working
+# Tested  Windows Seven & Android Working
 
 # Tampilan Akses WIfi Modem ZTE F609
 ![be](https://raw.githubusercontent.com/boychongzen18/WIFI-Modem-ZTE-F609/master/wifi.jpg)
