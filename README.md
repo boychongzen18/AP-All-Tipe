@@ -1,1 +1,27 @@
-# Modem-ZTE-F609
+# LOGIN WIfi Modem ZTE F609
+
+# Author : Boychongzen aka Xroot
+
+# Tested  Windows Seven & Kali Linux Working
+
+# Tampilan Akses WIfi Modem ZTE F609
+![be](https://raw.githubusercontent.com/boychongzen18/WIFI-Modem-ZTE-F609/master/wifi.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/WIFI-Modem-ZTE-F609/master/wifi1.jpg)
+
+My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
+
+Link Tutorial : 
+
+My Website    : https://hackingforlive.wordpress.com
+
+My Facebok    : https://web.facebook.com/xroot.xroot.7
+
+                https://www.facebook.com/xroot.hfl
+
+My eMAIL      : hackingforlive@yahoo.com
+
+MyTeam HFL    : https://defacer.id/archive/team/hackingforlive
+
+# Moto : Berbagi Itu Indah
+
+# Regard Boychongzen aka Xroot
