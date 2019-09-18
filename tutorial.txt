@@ -4,7 +4,7 @@ Author :  Boychongzen aka Xroot
 
 Tested : Windows Seven
 
-Buka Browser ketik 192.168.1.1 / 192.168.1.2 sesuaikan aja
+Buka Browser ketik 192.168.1.1 / http://csp1.zte.com.cn sesuaikan aja
 
 Username  : user
 Password  : user
