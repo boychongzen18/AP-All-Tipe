@@ -4,7 +4,7 @@
 
 # Tested  Windows Seven & Android Working
 
-# Tampilan Akses WIfi Modem ZTE F609
+# Tampilan Akses WIFI Modem ZTE F609
 ![be](https://raw.githubusercontent.com/boychongzen18/WIFI-Modem-ZTE-F609/master/wifi.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/WIFI-Modem-ZTE-F609/master/wifi1.jpg)
 
