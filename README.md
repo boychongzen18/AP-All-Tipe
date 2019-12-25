@@ -1,4 +1,4 @@
-# LOGIN Wifi Modem ZTE F609
+# LOGIN WIFI Modem ZTE F609
 
 # Author : Boychongzen aka Xroot
 
