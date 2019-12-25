@@ -7,6 +7,9 @@
 # Tampilan Akses WIFI Modem ZTE F609
 ![be](https://raw.githubusercontent.com/boychongzen18/WIFI-Modem-ZTE-F609/master/wifi.jpg)
 ![be](https://raw.githubusercontent.com/boychongzen18/WIFI-Modem-ZTE-F609/master/wifi1.jpg)
+# Tampilan Akses WIFI Modem ZTE F670
+![be](https://raw.githubusercontent.com/boychongzen18/WIFI-Modem-ZTE-F609/master/ZTE_F670.jpg)
+![be](https://raw.githubusercontent.com/boychongzen18/WIFI-Modem-ZTE-F609/master/ADMIN.jpg)
 
 My Youtube    : https://www.youtube.com/channel/UCKdOPQ_iIXcqK17PB_2RMdQ
 
