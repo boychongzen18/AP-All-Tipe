@@ -1,4 +1,4 @@
-# LOGIN WIFI Modem ZTE All SERI/TIPE
+# Login WIFI Modem ZTE All SERI/TIPE
 
 # Author : Boychongzen aka Xroot
 
