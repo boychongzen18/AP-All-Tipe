@@ -1,0 +1,12 @@
+
+
+
+ROUTER FIBERHOME
+
+http://192.168.1.1/html/login_inter.html
+
+WIFI : FiberNET
+
+U: admin
+
+P: %0|F?H@f!berhO3e
